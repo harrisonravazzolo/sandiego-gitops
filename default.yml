@@ -21,7 +21,7 @@ org_settings:
   org_info:
     org_name: Harry's House
   webhook_settings:
-    activties_webhook:
+    activities_webhook:
       enable_activities_webhook: true
       destination_url: https://webhook.site/58684cd7-071a-47c9-8f3e-32197c01ba78
   secrets:
